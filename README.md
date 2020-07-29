@@ -24,8 +24,10 @@ inclusive web.
 Outside of my mission in the technology community space, I have a deep love for
 mycology, geocaching, and air-cooled Volkswagens.
 
-
 - Pronouns: she/her/hers
+
+# Around the web
+
 - Find me on <a href="https://www.drupal.org/u/volkswagenchick">Drupal.org</a>
 - Posting snark on <a href="https://twitter.com/volkswagenchick">Twitter</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/volkswagenchick/">LinkedIn</a>

@@ -1,6 +1,6 @@
 # Hi, I'm AmyJune
 
-<img src="https://avatars3.githubusercontent.com/u/20327232?s=460&u=2930034a3b14e772b708dba5a1377aeb504a1dc4&v=4" alt="banner that says AmyJune Hineline - Communty ambassador and QA Engineer">
+<img src="https://avatars3.githubusercontent.com/u/20327232?s=460&amp;u=2930034a3b14e772b708dba5a1377aeb504a1dc4&amp;v=4" alt="banner that says AmyJune Hineline - Communty ambassador and QA Engineer" style="max-width:100%;border-radius: 150px;" align="right" width="300px">
 I am AmyJune Hineline, and I am the Open Source Community Ambassador and QA engineer at <a href="https://www.kanopi.com">Kanopi Studios</a>.
 With a dual focus on both open-source community development and
 inclusivity, I am uniquely positioned to help individuals become more

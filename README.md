@@ -26,7 +26,7 @@ mycology, geocaching, and air-cooled Volkswagens.
 
 - Pronouns: she/her/hers
 
-# Around the web
+## Around the web
 
 - Find me on <a href="https://www.drupal.org/u/volkswagenchick">Drupal.org</a>
 - Posting snark on <a href="https://twitter.com/volkswagenchick">Twitter</a>

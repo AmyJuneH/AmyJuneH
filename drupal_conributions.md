@@ -51,7 +51,12 @@ I presented sessions at:
  * DrupalCamp Colorado
 
 ### Organizing
-I helped organize BADCamp, Florida Drupal Camp, DrupalCamp New Jersey, DrupalCamp Asheville, and MidCamp
+I helped organize:
+ * BADCamp
+ * Florida Drupal Camp
+ * DrupalCamp New Jersey
+ * DrupalCamp Asheville
+ * MidCamp
 
 
 ### Trainings

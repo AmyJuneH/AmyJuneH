@@ -116,7 +116,7 @@ I helped organize:
 
 I was on the Speaker Selection/Session Review teams for [DrupalCon Minneapolis (Global)](https://events.drupal.org/global2020)
 
-I was on a volunteer room monitor for[DrupalCon Minneapolis (Global)](https://events.drupal.org/global2020)
+I was on a volunteer room monitor for [DrupalCon Minneapolis (Global)](https://events.drupal.org/global2020)
 
 I helped lead the [Community Summit at DrupalCon Global](https://events.drupal.org/global2020/program/summit/community)
 

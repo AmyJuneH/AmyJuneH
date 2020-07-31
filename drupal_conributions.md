@@ -31,7 +31,7 @@ I helped organize:
  * [Florida Drupal Camp](http://2018.fldrupal.camp/)
  * [DrupalCorn](http://2018.drupalcorn.org/)
 
-I organized the [Connecting Women in Drupal](https://events.drupal.org/nashville2018/bofs/connecting-women-drupal)
+I organized the [Connecting Women in Drupal Bof at DrupalCon Seattle](https://events.drupal.org/nashville2018/bofs/connecting-women-drupal)
 
 ### Trainings
 I led the trainings at:
@@ -43,7 +43,7 @@ I led the trainings at:
    * [Navigating the Issue Queue - A beginner's guide to contribution](https://www.drupalcampatlanta.com/2018/navigating-issue-queue-beginners-guide-contribution)
 
 ### Mentoring
-I was a mentor during [Florida DrupalCamp Contribution Day]http://2018.fldrupal.camp/contribution-sprints/index.html)
+I was a mentor during [Florida DrupalCamp Contribution Day](http://2018.fldrupal.camp/contribution-sprints/index.html)
 I was a mentor during [DrupalCon Nashville Contribution Day](https://events.drupal.org/nashville2018/sprints)
 
 
@@ -114,7 +114,9 @@ I helped organize:
  * [DrupalCamp Asheville](https://www.drupalasheville.com/)
 
 I was on the Speaker Selection/Session Review teams for [DrupalCon Minneapolis (Global)](https://events.drupal.org/global2020)
+
 I was on a volunteer room monitor for[DrupalCon Minneapolis (Global)](https://events.drupal.org/global2020)
+
 I helped lead the [Community Summit at DrupalCon Global](https://events.drupal.org/global2020/program/summit/community)
 
 ### Trainings

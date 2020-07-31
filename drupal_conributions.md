@@ -44,6 +44,7 @@ I led the trainings at:
 
 ### Mentoring
 I was a mentor during [Florida DrupalCamp Contribution Day](http://2018.fldrupal.camp/contribution-sprints/index.html)
+
 I was a mentor during [DrupalCon Nashville Contribution Day](https://events.drupal.org/nashville2018/sprints)
 
 

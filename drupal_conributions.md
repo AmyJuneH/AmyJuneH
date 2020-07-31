@@ -5,12 +5,15 @@
 ### Presentations
 I presented sessions at:
  * DrupalCamp LA
+   * [Dred(itor) the Issue Queue? Don't - It's Simple(lytest) to Git in!](http://replay.uci.edu/clients/drupal/Dred(itor)_the_Issue_Queue_Don't_-_It's_Simple(lyt_-_20170806_192707_11.html)
  * BADCamp
+   * [Dred(itor) the Issue Queue? Don't - It's Simple(lytest) to Git in!](https://2017.badcamp.net/session/coding-development/beginner/dreditor-issue-queue-dont-its-simplelytest-git)
  * NEDCamp
+  * [Dred(itor) the Issue Queue? Don't - It's Simple(lytest) to Git in!](https://drupal.tv/external-video/2017-11-18/dreditor-issue-queue-dont-its-simplelytest-git)
 
 ### Organizing
 I helped organize:
- * BADCamp
+ * [BADCamp](https://2017.badcamp.net/)
 
 
 ## 2018
@@ -18,25 +21,30 @@ I helped organize:
 ### Presentations
 I presented sessions at:
  * DrupalCorn
+   * [Demystifying Diversity and Inclusion](http://2018.drupalcorn.org/session/demystifying-diversity-and-inclusion/index.html)
  * Florida DrupalCamp
+   * [Dred(itor) the Issue Queue? Don't - It's Simple(lytest) to Git in](http://2018.fldrupal.camp/sessions/beginner-track/dreditor-issue-queue-dont-its-simplelytest-git/index.html)
 
 ### Organizing
 I helped organize:
- * BADCamp
- * Florida Drupal Camp
- * DrupalCorn
+ * [BADCamp](https://2018.badcamp.org/)
+ * [Florida Drupal Camp](http://2018.fldrupal.camp/)
+ * [DrupalCorn[(http://2018.drupalcorn.org/)
 
-I organized the Women In Drupal BoF at DrupalCon Nashville
+I organized the [Connecting Women in Drupal](https://events.drupal.org/nashville2018/bofs/connecting-women-drupal)
 
 ### Trainings
-I led the First-Time Contributor Workshop at:
+I led the trainings at:
  * DrupalCorn
- * Florida DrupalCamp
- * BADCam
+   * [Getting Started with Drupal Contribution](http://2018.drupalcorn.org/training/contrib/index.html)
+ * BADCamp
+   * [Navigating the Issue Queue - A beginner's guide to contribution](https://2018.badcamp.org/trainings/navigating-issue-queue-beginners-guide-contribution-half-day-training)
  * DrupalCamp Atlanta
+   * [Navigating the Issue Queue - A beginner's guide to contribution](https://www.drupalcampatlanta.com/2018/navigating-issue-queue-beginners-guide-contribution)
 
 ### Mentoring
-I was a mentor during DrupalCon Nashville Contribution Day
+I was a mentor during [Florida DrupalCamp Contribution Day]http://2018.fldrupal.camp/contribution-sprints/index.html)
+I was a mentor during [DrupalCon Nashville Contribution Day](https://events.drupal.org/nashville2018/sprints)
 
 
 ## 2019
@@ -44,34 +52,40 @@ I was a mentor during DrupalCon Nashville Contribution Day
 ### Presentations
 I presented sessions at:
  * Florida DrupalCamp
+   * [Inclusive Content Strategy](http://2019.fldrupal.camp/sessions/beginner-track/inclusive-content-strategy/index.html)
  * DrupalCamp New Jersey
+   * [Drupal Contributions - A Pragmatic Approach to the Issue Queue](https://www.drupalcampnj.org/archives/2019/sessions/drupal-contributions-pragmatic-approach-issue-queue.htm)
  * MIDCamp
- * BADCamp
- * DrupalCamp Asheville
+   * [Inclusive Content Strategy](https://www.midcamp.org/2019/topic-proposal/inclusive-content-strategy)
  * DrupalCamp Colorado
+   * [Drupal Contributions - A Pragmatic Approach to the Issue Queue](https://2019.drupalcampcolorado.org/sessions/drupal-contributions-pragmatic-approach-issue-queue.html)
 
 ### Organizing
 I helped organize:
- * BADCamp
- * Florida Drupal Camp
- * DrupalCamp New Jersey
- * DrupalCamp Asheville
- * MidCamp
+ * [BADCamp](https://2019.badcamp.org/)
+ * [Florida Drupal Camp](http://2019.fldrupal.camp/)
+ * [DrupalCamp New Jersey](https://www.drupalcampnj.org/archives/2019/index.html)
+ * [DrupalCamp Asheville](https://www.drupalasheville.com/2019)
+ * [MidCamp](https://www.midcamp.org/2019)
 
 
 ### Trainings
-I led the First-Time Contributor Workshop at:
+I led trainings at:
  * Florida DrupalCamp
+   * [CONTRIBUTING TO DRUPAL](http://2019.fldrupal.camp/training/contributing-drupal/index.html)
  * BADCamp
+   * [New Contributor Workshop](https://2019.badcamp.org/training/new-contributor-workshop)
+   * [Speaker Diversity Workshops]()
  * DrupalCamp Asheville
+   * [Drupal Contributions - A Pragmatic Approach to the Issue Queue](https://www.drupalasheville.com/2019/session/drupal-contributions-pragmatic-approach-issue-queue)
  * DrupalCamp Colorado
+   * [First Time Contributor's Workshop](https://2019.drupalcampcolorado.org/contribution-day.html)
  * MIDCamp
-
-I helped lead Speaker Diversity Workshops at BADCamp
+   * [Getting started with the Drupal issue queue](https://www.midcamp.org/2019/training-proposal/getting-started-drupal-issue-queue)
 
 
 ### Mentoring
-I helped lead the First-Time Contributor Workshop at DrupalCon Seattle
+I helped lead the First-Time Contributor Workshop at [DrupalCon Seattle](https://events.drupal.org/seattle2019/first-time-contributor-workshop-1)
 
 
 ## 2020
@@ -79,36 +93,48 @@ I helped lead the First-Time Contributor Workshop at DrupalCon Seattle
 ### Presentations
 I presented sessions at:
  * DrupalCamp New Jersey
+   * [Inclusive Content Strategy]()
  * Florida Drupal Camp
+   * [WRITING THE PITCH AND SPEAKER BIO FOR YOUR OPEN-SOURCE PRESENTATION](http://2020.fldrupal.camp/sessions/beginner-track/writing-pitch-and-speaker-bio-your-open-source-presentation/index.html)
+   * [BECOMING A BETTER SPEAKER](http://2020.fldrupal.camp/sessions/beginner-track/becoming-better-speaker/index.html)
+   * [CREATING YOUR OWN OPEN-SOURCE PRESENTATION](http://2020.fldrupal.camp/sessions/beginner-track/creating-your-own-open-source-presentation/index.html)
+   * [Accessible Media](http://2020.fldrupal.camp/sessions/design-theming-front-end-development/accessible-media/index.html)
  * Stanford WebCamp
+   * [Checking under the hood: Auditing your website for a smooth ride](https://webcamp.stanford.edu/session/checking-under-hood-auditing-your-website-smooth-ride-0)
+ * [DrupalCamp Colorado]()
 
-I presented a session at DrupalCon Global
+I presented a session at DrupalCon Global:
+ * [Inclusive Content Strategy](https://events.drupal.org/global2020/sessions/inclusive-content-strategy)
 
 ### Organizing
 I helped organize:
- * BADCamp
- * Florida Drupal Camp
- * DrupalCamp New Jersey
- * DrupalCamp Asheville
- * MidCamp
- 
-I was on the Speaker Selection/Session Review teams for DrupalCon Minneapolis (Global)
-I helped lead the Community Summit at DrupalCon Global
+ * [BADCamp](https://2020.badcamp.org/)
+ * [MidCamp](https://www.midcamp.org/)
+ * [Florida Drupal Camp](http://2020.fldrupal.camp/)
+ * [DrupalCamp Asheville](https://www.drupalasheville.com/)
+
+I was on the Speaker Selection/Session Review teams for [DrupalCon Minneapolis (Global)](https://events.drupal.org/global2020)
+I was on a volunteer room monitor for[DrupalCon Minneapolis (Global)](https://events.drupal.org/global2020)
+I helped lead the [Community Summit at DrupalCon Global](https://events.drupal.org/global2020/program/summit/community)
 
 ### Trainings
-I led the First-Time Contributor Workshop:
+I led trainings at:
  * DrupalCamp New Jersey
+   * [First Time Contributor Workshop](https://www.drupalcampnj.org/program/mentoring-collaboration)
+   * [New Speaker Workshop](https://www.drupalcampnj.org/program/trainings)
  * Florida Drupal Camp
+   * [First Time Contributor Workshop](http://2020.fldrupal.camp/sessions/beginner-track/first-time-contribution-workshop/index.html)
  * MidCamp
+   * [New Speaker Workshop](https://www.midcamp.org/2020/topic-proposal/half-day-speaker-diversity-workshop)
+   * [First Time Contributor Workshop](https://www.midcamp.org/2020/training-proposal/saturday-first-time-contributor-workshop-10am-noon)
  * DrupalCamp Asheville
- 
-I helped lead Speaker Diversity Workshops at:
- * DrupalCamp New Jersey
- * Florida DrupalCamp
- * MidCamp
+   * [First Time Contributor Workshop](https://www.drupalasheville.com/2020/session/first-time-contributor-workshop-morning)
+ * BADCamp
+   * [First Time Contributor Workshop](https://2020.badcamp.org/training/new-contributor-workshop)
+
 
 ### Mentoring
-I was a mentor during DrupalCon Global Contribution Day
+I was a mentor during [DrupalCon Global Contribution Day](https://events.drupal.org/minneapolis2020/mentored-contribution)
 
 
 ## 2021

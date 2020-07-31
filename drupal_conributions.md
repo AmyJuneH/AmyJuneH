@@ -9,7 +9,7 @@ I presented sessions at:
  * BADCamp
    * [Dred(itor) the Issue Queue? Don't - It's Simple(lytest) to Git in!](https://2017.badcamp.net/session/coding-development/beginner/dreditor-issue-queue-dont-its-simplelytest-git)
  * NEDCamp
-  * [Dred(itor) the Issue Queue? Don't - It's Simple(lytest) to Git in!](https://drupal.tv/external-video/2017-11-18/dreditor-issue-queue-dont-its-simplelytest-git)
+   * [Dred(itor) the Issue Queue? Don't - It's Simple(lytest) to Git in!](https://drupal.tv/external-video/2017-11-18/dreditor-issue-queue-dont-its-simplelytest-git)
 
 ### Organizing
 I helped organize:
@@ -29,7 +29,7 @@ I presented sessions at:
 I helped organize:
  * [BADCamp](https://2018.badcamp.org/)
  * [Florida Drupal Camp](http://2018.fldrupal.camp/)
- * [DrupalCorn[(http://2018.drupalcorn.org/)
+ * [DrupalCorn](http://2018.drupalcorn.org/)
 
 I organized the [Connecting Women in Drupal](https://events.drupal.org/nashville2018/bofs/connecting-women-drupal)
 

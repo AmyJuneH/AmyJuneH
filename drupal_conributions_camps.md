@@ -25,6 +25,8 @@ I presented sessions at:
    * [Demystifying Diversity and Inclusion](http://2018.drupalcorn.org/session/demystifying-diversity-and-inclusion/index.html)
  * Florida DrupalCamp
    * [Dred(itor) the Issue Queue? Don't - It's Simple(lytest) to Git in](http://2018.fldrupal.camp/sessions/beginner-track/dreditor-issue-queue-dont-its-simplelytest-git/index.html)
+   * San Fransisco User's Group Dec 2018
+     * Getting Started with Drupal Contribution
 
 ### Organizing
 I helped organize:
@@ -96,6 +98,8 @@ I helped lead the First-Time Contributor Workshop at [DrupalCon Seattle](https:/
 I presented sessions at:
  * DrupalCamp New Jersey
    * [Inclusive Content Strategy]()
+ * San Fransisco User's Group Feb 2020
+   * Accessible Media
  * Florida Drupal Camp
    * [WRITING THE PITCH AND SPEAKER BIO FOR YOUR OPEN-SOURCE PRESENTATION](http://2020.fldrupal.camp/sessions/beginner-track/writing-pitch-and-speaker-bio-your-open-source-presentation/index.html)
    * [BECOMING A BETTER SPEAKER](http://2020.fldrupal.camp/sessions/beginner-track/becoming-better-speaker/index.html)
@@ -103,7 +107,7 @@ I presented sessions at:
    * [Accessible Media](http://2020.fldrupal.camp/sessions/design-theming-front-end-development/accessible-media/index.html)
  * Stanford WebCamp
    * [Checking under the hood: Auditing your website for a smooth ride](https://webcamp.stanford.edu/session/checking-under-hood-auditing-your-website-smooth-ride-0)
- * [DrupalCamp Colorado]()
+ * [DrupalCamp Colorado](https://2020.drupalcampcolorado.org/)
 
 I presented a session at DrupalCon Global:
  * [Inclusive Content Strategy](https://events.drupal.org/global2020/sessions/inclusive-content-strategy)
@@ -135,6 +139,7 @@ I led trainings at:
    * [First Time Contributor Workshop](https://www.drupalasheville.com/2020/session/first-time-contributor-workshop-morning)
  * BADCamp
    * [First Time Contributor Workshop](https://2020.badcamp.org/training/new-contributor-workshop)
+ * [DrupalCamp Colorado](https://2020.drupalcampcolorado.org/)
 
 
 ### Mentoring

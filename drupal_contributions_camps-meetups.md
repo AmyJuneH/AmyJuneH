@@ -66,6 +66,8 @@ I presented sessions at:
    * [Inclusive Content Strategy](https://www.midcamp.org/2019/topic-proposal/inclusive-content-strategy)
  * DrupalNorth
    * [Checking under the hood: Auditing your website for a smooth ride](http://2019.drupalnorth.org/en/session/checking-under-hood-auditing-your-website-smooth-ride.html)
+ * BADCamp
+   * [Website Accessibilty](https://2019.badcamp.org/summit/front-end-summit) - Front End Summit
  * DrupalCamp Colorado
    * [Drupal Contributions - A Pragmatic Approach to the Issue Queue](https://2019.drupalcampcolorado.org/sessions/drupal-contributions-pragmatic-approach-issue-queue.html)
 

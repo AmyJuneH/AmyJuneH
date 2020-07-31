@@ -112,8 +112,7 @@ I presented sessions at:
    * [WRITING THE PITCH AND SPEAKER BIO FOR YOUR OPEN-SOURCE PRESENTATION](http://2020.fldrupal.camp/sessions/beginner-track/writing-pitch-and-speaker-bio-your-open-source-presentation/index.html)
    * [BECOMING A BETTER SPEAKER](http://2020.fldrupal.camp/sessions/beginner-track/becoming-better-speaker/index.html)
    * [CREATING YOUR OWN OPEN-SOURCE PRESENTATION](http://2020.fldrupal.camp/sessions/beginner-track/creating-your-own-open-source-presentation/index.html)
-   * [Accessible Media](http://2020.fldrupal.camp/sessions/d
-   esign-theming-front-end-development/accessible-media/index.html)
+   * [Accessible Media](http://2020.fldrupal.camp/sessions/design-theming-front-end-development/accessible-media/index.html)
  * Stanford WebCamp
    * [Checking under the hood: Auditing your website for a smooth ride](https://webcamp.stanford.edu/session/checking-under-hood-auditing-your-website-smooth-ride-0)
  * DrupalChicago Meetup August 2020

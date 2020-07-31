@@ -34,9 +34,9 @@ I helped organize:
 ### Presentations
 I presented sessions at:
  * WordCamp Minneapolis
-   * [Checking Under The Hood: Auditing Your Website For A Smooth Ride]
+   * [Checking Under The Hood: Auditing Your Website For A Smooth Ride]()
 
 ### Organizing
 I helped organize:
- * [WordCamp US](https://2020.minneapolis.wordcamp.org/)(https://2020.us.wordcamp.org/)
+ * [WordCamp US](https://2020.minneapolis.wordcamp.org/)
 

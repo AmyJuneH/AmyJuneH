@@ -64,6 +64,8 @@ I presented sessions at:
    * [Drupal Contributions - A Pragmatic Approach to the Issue Queue](https://www.drupalcampnj.org/archives/2019/sessions/drupal-contributions-pragmatic-approach-issue-queue.htm)
  * MIDCamp
    * [Inclusive Content Strategy](https://www.midcamp.org/2019/topic-proposal/inclusive-content-strategy)
+ * DrupalNorth
+   * [Checking under the hood: Auditing your website for a smooth ride](http://2019.drupalnorth.org/en/session/checking-under-hood-auditing-your-website-smooth-ride.html)
  * DrupalCamp Colorado
    * [Drupal Contributions - A Pragmatic Approach to the Issue Queue](https://2019.drupalcampcolorado.org/sessions/drupal-contributions-pragmatic-approach-issue-queue.html)
 
@@ -110,9 +112,12 @@ I presented sessions at:
    * [WRITING THE PITCH AND SPEAKER BIO FOR YOUR OPEN-SOURCE PRESENTATION](http://2020.fldrupal.camp/sessions/beginner-track/writing-pitch-and-speaker-bio-your-open-source-presentation/index.html)
    * [BECOMING A BETTER SPEAKER](http://2020.fldrupal.camp/sessions/beginner-track/becoming-better-speaker/index.html)
    * [CREATING YOUR OWN OPEN-SOURCE PRESENTATION](http://2020.fldrupal.camp/sessions/beginner-track/creating-your-own-open-source-presentation/index.html)
-   * [Accessible Media](http://2020.fldrupal.camp/sessions/design-theming-front-end-development/accessible-media/index.html)
+   * [Accessible Media](http://2020.fldrupal.camp/sessions/d
+   esign-theming-front-end-development/accessible-media/index.html)
  * Stanford WebCamp
    * [Checking under the hood: Auditing your website for a smooth ride](https://webcamp.stanford.edu/session/checking-under-hood-auditing-your-website-smooth-ride-0)
+ * DrupalChicago Meetup August 2020
+   * [Checking under the hood: Auditing your website for a smooth ride](https://www.meetup.com/drupalchicago/events/271952692/)
  * [DrupalCamp Colorado](https://2020.drupalcampcolorado.org/)
 
 I presented a session at DrupalCon Global:

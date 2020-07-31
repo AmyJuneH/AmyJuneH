@@ -5,7 +5,8 @@
 ### Presentations
 I presented sessions at:
  * DrupalCamp LA
-   * [Dred(itor) the Issue Queue? Don't - It's Simple(lytest) to Git in!](http://replay.uci.edu/clients/drupal/Dreditor_the_Issue_Queue_Don't_-_It's_Simplelyt_-_20170806_192707_11.html)
+   * [Dred(itor) the Issue Queue? Don't - It's Simple(lytest) to Git in!](http://2017.drupalcampla.com/sessions/dreditor-issue-queue-dont-its-simplelytest-git)
+   * [Finding a Work-family Balance as a Drupal Professional](http://2017.drupalcampla.com/sessions/finding-work-family-balance-drupal-professional)
  * BADCamp
    * [Dred(itor) the Issue Queue? Don't - It's Simple(lytest) to Git in!](https://2017.badcamp.net/session/coding-development/beginner/dreditor-issue-queue-dont-its-simplelytest-git)
  * NEDCamp

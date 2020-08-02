@@ -10,6 +10,7 @@ individuals to forge deep community connections that benefit the whole. As a
 self-described non-coder, I help communities discover how they can contribute
 and belong in more ways than coding. 
 
+
 With five years of open-source community involvement behind me, I’ve had the
 opportunity to become actively involved in both the Drupal and WordPress
 communities: working to lower the barrier to entry in tech though my leadership
@@ -21,13 +22,18 @@ organize <a href="https://www.a11ytalks.com">A11yTalks</a>, an online meetup whe
 talk about all things accessibility - one of the core components of building an
 inclusive web. 
 
-Outside of my mission in the technology community space, I have a deep love for
-mycology, geocaching, and air-cooled Volkswagens.
+I am a graduate of <a href="https://academy.drupaleasy.com" target="_blank">DrupalEasy</a>. <a href="https://academy.drupaleasy.com/users/amyjunehineline" target="_blank">View my profile here</a>.
+
+Other Gems and Oddities include but aren't limited to:
+- I am the youngest of five sisters and have survived, proving I am either good at communicating or at talking myself out of deadly situations.
+- I am a mycology aficionado who geocaches in the woods.
+- I can spell the word diarrhea without the aid of spellcheck, but hopefully in tech this will be an under utilized skill.
 
 - Pronouns: she/her/hers
 
 ## Around the web
 
+- Visit my website <a href="https://www.volkswagenchick.com">volkswagenchick.com</a>
 - Find me on <a href="https://www.drupal.org/u/volkswagenchick">Drupal.org</a>
 - Posting snark on <a href="https://twitter.com/volkswagenchick">Twitter</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/volkswagenchick/">LinkedIn</a>

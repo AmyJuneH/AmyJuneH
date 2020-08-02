@@ -5,23 +5,29 @@ I presented sessions at:
  * WPCampus Online
    * [Inclusive Content Strategy](https://online.wpcampus.org/schedule/inclusive-content-strategy/)
  * WordPress San Jose meetup
-   * [Inclusive Content Strategy](https://www.meetup.com/sanjosewp/events/mqcmmqyzfbhb/)
+   * [Inclusive Content Strategy](https://www.meetup.com/sanjosewp/events/mqcmmqyzfbhb/) March 2019
  * WordPress Bay Area Foothills Group
-   * [Inclusive Content Strategy](https://www.meetup.com/Wordpress-Bay-Area-CA-Foothills/events/bjlghpyzdbkc/)
+   * [Inclusive Content Strategy](https://www.meetup.com/Wordpress-Bay-Area-CA-Foothills/events/bjlghpyzdbkc/) Febuary 2019
  * WordPress Monterey meetup
-   * [Inclusive Content Strategy](https://www.meetup.com/WordPress-Monterey/events/259549746/)
- * WordCamp Calgery
+   * [Inclusive Content Strategy](https://www.meetup.com/WordPress-Monterey/events/259549746/) April 2019
+   * [Accessible Websites](https://www.meetup.com/WordPress-Monterey/events/266947154/) Decemeber 2019
+ * WordCamp Calgary
    * [Inclusive Content](https://2019.calgary.wordcamp.org/session/inclusive-content/)
  * WordPress Sacramento Meetup
-   * [Inclusive Content Strategy](https://www.meetup.com/Sacramento-WordPress/events/258131177/)
+   * [Inclusive Content Strategy](https://www.meetup.com/Sacramento-WordPress/events/258131177/) April 2019
  * WordCamp Sacramento
    * [Checking Under The Hood: Auditing Your Website For A Smooth Ride](https://2019.sacramento.wordcamp.org/sessions/)
  * WordCamp Las Vegas
    * [Inclusive Content Strategy](https://2019.vegas.wordcamp.org/session/inclusive-content-strategy/)
- * WordPress Monterey meetup
-   * [Accessible Websites](https://www.meetup.com/WordPress-Monterey/events/266947154/)
  * WordCamp Boise
    * [Inclusive Content Strategy](https://2019.boise.wordcamp.org/session/inclusive-content-strategy/)
+
+
+### Volunteering
+I volunteered at:
+ * [WordCamp Calgary](https://2019.calgary.wordcamp.org/)
+ * [WordCamp Las Vegas](https://2019.vegas.wordcamp.org/)
+ * [WordCamp Boise](https://2019.boise.wordcamp.org/)
 
 
 ### Organizing
@@ -32,6 +38,10 @@ I helped organize:
 ## 2020
 
 ### Presentations
+I was selected to speak at (and you know, covid happened):
+ * WordCamp Atlanta
+   * [Accessible Websites](https://atlanta.wordcamp.org/2020/session/accessible-websites/)
+
 I presented sessions at:
  * WordCamp Minneapolis
    * [Checking Under The Hood: Auditing Your Website For A Smooth Ride]()

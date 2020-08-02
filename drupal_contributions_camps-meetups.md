@@ -25,7 +25,7 @@ I presented sessions at:
    * [Demystifying Diversity and Inclusion](http://2018.drupalcorn.org/session/demystifying-diversity-and-inclusion/index.html)
  * Florida DrupalCamp
    * [Dred(itor) the Issue Queue? Don't - It's Simple(lytest) to Git in](http://2018.fldrupal.camp/sessions/beginner-track/dreditor-issue-queue-dont-its-simplelytest-git/index.html)
- * San Fransisco User's Group Dec 2018
+ * San Fransisco Users Group Dec 2018
    * [Drupal Contributions - A Pragmatic Approach to the Issue Queue](https://www.meetup.com/SFDUG-San-Francisco-Drupal-Users-group/events/jhskqpyxqbrb/)
 
 ### Organizing
@@ -33,7 +33,7 @@ I helped organize:
  * [BADCamp](https://2018.badcamp.org/)
  * [Florida Drupal Camp](http://2018.fldrupal.camp/)
  * [DrupalCorn](http://2018.drupalcorn.org/)
- * [SGFDUG](https://www.meetup.com/SFDUG-San-Francisco-Drupal-Users-group)
+ * [SFDUG](https://www.meetup.com/SFDUG-San-Francisco-Drupal-Users-group)
 
 I organized the [Connecting Women in Drupal Bof at DrupalCon Seattle](https://events.drupal.org/nashville2018/bofs/connecting-women-drupal)
 
@@ -56,7 +56,7 @@ I was a mentor during [DrupalCon Nashville Contribution Day](https://events.drup
 
 ### Presentations
 I presented sessions at:
- * San Fransisco Drupal Users Group
+ * San Fransisco Drupal Users Group (SFDUG)
    * [Drupal's Global Contribution Weekend - SFDUG Edition](https://www.meetup.com/SFDUG-San-Francisco-Drupal-Users-group/events/jhskqpyzcbnb/)
  * Florida DrupalCamp
    * [Inclusive Content Strategy](http://2019.fldrupal.camp/sessions/beginner-track/inclusive-content-strategy/index.html)
@@ -73,7 +73,7 @@ I presented sessions at:
 
 ### Organizing
 I helped organize:
- * [SGFDUG](https://www.meetup.com/SFDUG-San-Francisco-Drupal-Users-group)
+ * [SFDUG](https://www.meetup.com/SFDUG-San-Francisco-Drupal-Users-group)
  * [BADCamp](https://2019.badcamp.org/)
  * [Florida Drupal Camp](http://2019.fldrupal.camp/)
  * [DrupalCamp New Jersey](https://www.drupalcampnj.org/archives/2019/index.html)

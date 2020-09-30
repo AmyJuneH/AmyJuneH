@@ -47,7 +47,7 @@ I presented sessions at:
    * [Checking Under The Hood: Auditing Your Website For A Smooth Ride](https://minneapolis.wordcamp.org/2020/session/checking-under-the-hood-auditing-your-website-for-a-smooth-ride/)
  * WordCamp Asheville
    * [Checking Under The Hood: Auditing Your Website For A Smooth Ride](https://2020.asheville.wordcamp.org/session/checking-under-the-hood-auditing-your-website-for-a-smooth-ride/)
-  * WordCamp Philly
+ * WordCamp Philly
    * [Checking Under The Hood: Auditing Your Website For A Smooth Ride](https://philadelphia.wordcamp.org/2020/session/checking-under-the-hood-auditing-your-website-for-a-smooth-ride/)
  * WordCamp Austin
    * [Git into the Groove - Moving from Freelance to Collaborative Workflow](https://austin.wordcamp.org/2020/speakers/)

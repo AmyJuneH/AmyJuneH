@@ -122,7 +122,7 @@ I presented sessions at:
  * [DrupalCamp Colorado](https://2020.drupalcampcolorado.org/)
    * [Inclusive Content Strategy](https://2020.drupalcampcolorado.org/sessions/inclusive-content-strategy.html)
  * [DrupalCamp Atlanta](https://www.drupalcampatlanta.com/)
-   * [Drupal Contributions - A Pragmatic approach to giving back to the Drupal community]https://www.drupalcampatlanta.com/2020/sessions/drupal-contributions-pragmatic-approach-giving-back-drupal-community)
+   * [Drupal Contributions - A Pragmatic approach to giving back to the Drupal community](https://www.drupalcampatlanta.com/2020/sessions/drupal-contributions-pragmatic-approach-giving-back-drupal-community)
 
 I presented a session at DrupalCon Global:
  * [Inclusive Content Strategy](https://events.drupal.org/global2020/sessions/inclusive-content-strategy)

@@ -120,6 +120,9 @@ I presented sessions at:
  * DrupalChicago Meetup August 2020
    * [Checking under the hood: Auditing your website for a smooth ride](https://www.meetup.com/drupalchicago/events/271952692/)
  * [DrupalCamp Colorado](https://2020.drupalcampcolorado.org/)
+   * [Inclusive Content Strategy](https://2020.drupalcampcolorado.org/sessions/inclusive-content-strategy.html)
+ * [DrupalCamp Atlanta](https://www.drupalcampatlanta.com/)
+   * [Drupal Contributions - A Pragmatic approach to giving back to the Drupal community]https://www.drupalcampatlanta.com/2020/sessions/drupal-contributions-pragmatic-approach-giving-back-drupal-community)
 
 I presented a session at DrupalCon Global:
  * [Inclusive Content Strategy](https://events.drupal.org/global2020/sessions/inclusive-content-strategy)
@@ -131,6 +134,7 @@ I helped organize:
  * [MidCamp](https://www.midcamp.org/)
  * [Florida Drupal Camp](http://2020.fldrupal.camp/)
  * [DrupalCamp Asheville](https://www.drupalasheville.com/)
+ * [DrupalCampNYC](https://2020.drupalcamp.nyc/volunteers)
 
 I was on the Speaker Selection/Session Review teams for [DrupalCon Minneapolis (Global)](https://events.drupal.org/global2020)
 
@@ -153,6 +157,9 @@ I led trainings at:
  * BADCamp
    * [First Time Contributor Workshop](https://2020.badcamp.org/training/new-contributor-workshop)
  * [DrupalCamp Colorado](https://2020.drupalcampcolorado.org/)
+   * [First Time Contributor Workshop](https://2020.drupalcampcolorado.org/sessions/contribution-day.html)
+ * [Drupal GovCon](https://www.drupalgovcon.org/contributing)
+   * [Contributions 101](https://www.youtube.com/watch?v=3DeTSMAkZ2k&feature=emb_logo)
 
 
 ### Mentoring

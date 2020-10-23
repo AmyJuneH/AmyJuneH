@@ -123,6 +123,18 @@ I presented sessions at:
    * [Inclusive Content Strategy](https://2020.drupalcampcolorado.org/sessions/inclusive-content-strategy.html)
  * [DrupalCamp Atlanta](https://www.drupalcampatlanta.com/)
    * [Drupal Contributions - A Pragmatic approach to giving back to the Drupal community](https://www.drupalcampatlanta.com/2020/sessions/drupal-contributions-pragmatic-approach-giving-back-drupal-community)
+ * [DrupalCorn](https://www.drupal.org/community/events/drupalcorn-meetup-accessible-media-2020) - Meetup
+   * [Accessible Media](https://www.drupal.org/community/events/drupalcorn-meetup-accessible-media-2020)
+ * [BADCamp](https://2020.badcamp.org) - Front-end Summit
+   * [Accessible Media](https://2020.badcamp.org/summit/front-end-summit)
+ * [BADCamp](https://2020.badcamp.org) - Front-end Summit
+   * [Accessible Media](https://2020.badcamp.org/summit/front-end-summit)
+ * [DrupalJam](https://drupaljam.nl/)
+   * [Accessible Media](https://drupaljam.nl/speakers/amyjune-hineline)
+ * [DrupalCamp Costa Rica](https://www.drupalcamp.cr/en/inicio)
+   * [Finding a Niche in Open Source Contributions: A Journey for Everyone](https://www.drupalcamp.cr/en/sessions/finding-niche-open-source-contributions-journey-everyone)
+ * [NEDCamp](https://nedcamp.org/)
+   * [How to Create Accessible and Inclusive Virtual Presentations](https://nedcamp.org/bof/a11ytalks-team-presents-how-create-accessible-and-inclusive-virtual-presentations)
 
 I presented a session at DrupalCon Global:
  * [Inclusive Content Strategy](https://events.drupal.org/global2020/sessions/inclusive-content-strategy)

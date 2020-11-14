@@ -172,6 +172,8 @@ I led trainings at:
    * [First Time Contributor Workshop](https://2020.drupalcampcolorado.org/sessions/contribution-day.html)
  * [Drupal GovCon](https://www.drupalgovcon.org/contributing)
    * [Contributions 101](https://www.youtube.com/watch?v=3DeTSMAkZ2k&feature=emb_logo)
+ * [DrupalCamp NYC](https://2020.drupalcamp.nyc/)
+   * [Contributions Workshop](https://2020.drupalcamp.nyc/training/first-time-contribution-workshop)
 
 
 ### Mentoring

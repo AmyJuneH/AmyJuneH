@@ -59,3 +59,14 @@ I presented sessions at:
 I helped organize:
  * [WordCamp US](https://2020.minneapolis.wordcamp.org/)
 
+
+## 2021
+
+### Presentations
+I presented sessions at:
+ * [WordFest] 2021(https://www.wordfest.live/01/)
+   * [Accessibility Is a Moving Target](https://www.wordfest.live/01/sessions/accessibility-is-a-moving-target/)
+
+
+### Organizing
+

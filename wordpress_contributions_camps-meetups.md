@@ -64,7 +64,7 @@ I helped organize:
 
 ### Presentations
 I presented sessions at:
- * [WordFest] 2021(https://www.wordfest.live/01/)
+ * [WordFest 2021](https://www.wordfest.live/01/)
    * [Accessibility Is a Moving Target](https://www.wordfest.live/01/sessions/accessibility-is-a-moving-target/)
 
 

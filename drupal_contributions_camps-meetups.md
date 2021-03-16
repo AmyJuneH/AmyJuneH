@@ -175,7 +175,6 @@ I led trainings at:
  * [DrupalCamp NYC](https://2020.drupalcamp.nyc/)
    * [Contributions Workshop](https://2020.drupalcamp.nyc/training/first-time-contribution-workshop)
 
-
 ### Mentoring
 I was a mentor during [DrupalCon Global Contribution Day](https://events.drupal.org/minneapolis2020/mentored-contribution)
 
@@ -183,13 +182,34 @@ I was a mentor during [DrupalCon Global Contribution Day](https://events.drupal.
 ## 2021
 
 ### Presentations
+ * Florida DrupalCamp
+   * [DevOps Summit - SimplyTest.me: The Future Built From The Past](https://www.youtube.com/watch?v=M2t7cjmVo9E&t=77s)
+ * NERDSummit
+   * [Accessible Social Media](https://nerdsummit.org/#19)
+   * [Accessibility is a Moving Target](https://nerdsummit.org/#31)
+
+I presented a session at DrupalCon 2021:
+ * Accessibility is a Moving Target
 
 ### Organizing
 I help organize:
  * [SGFDUG](https://www.meetup.com/SFDUG-San-Francisco-Drupal-Users-group)
  * BADCamp
- * Florida Drupal Camp
+ * Florida DrupalCamp
+ * MidCamp
+ * DrupalCamp Asheville
+ * DrupalCamp NYC
+
+I helped lead the [Community Summit at DrupalCon North America 2021](https://events.drupal.org/northamerica2021/summit/community)
 
 ### Trainings
-
+ * Florida Drupal Camp
+   * [Getting involved in Drupal Contribution](https://www.fldrupal.camp/sessions/beginner-track/getting-involved-drupal-contribution)
+   * [Introduction to creating and reviewing patches](https://www.fldrupal.camp/sessions/beginner-track/introduction-creating-and-reviewing-patches-0)
+ * MidCamp
+   * [First Time Contribution Workshop](https://www.midcamp.org/2021/topic-proposal/first-time-contribution-workshop)
+   * Non-Code Contributions
+ 
 ### Mentoring
+I was a mentor during [DrupalCon North America](https://events.drupal.org/northamerica2021) on the [Easy Out of the Box Initiative team](https://events.drupal.org/northamerica2021/easy-out-box-day).
+

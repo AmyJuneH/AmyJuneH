@@ -150,7 +150,7 @@ I helped organize:
 
 I was on the Speaker Selection/Session Review teams for [DrupalCon Minneapolis (Global)](https://events.drupal.org/global2020)
 
-I was on a volunteer room monitor for [DrupalCon Minneapolis (Global)](https://events.drupal.org/global2020)
+I was a volunteer room monitor for [DrupalCon Minneapolis (Global)](https://events.drupal.org/global2020)
 
 I helped lead the [Community Summit at DrupalCon Global](https://events.drupal.org/global2020/program/summit/community)
 
@@ -206,6 +206,9 @@ I help organize:
  * DrupalCamp NYC
 
 I helped lead the [Community Summit at DrupalCon North America 2021](https://events.drupal.org/northamerica2021/summit/community)
+
+I was a volunteer room monitor for [DrupalCon NA](https://events.drupal.org/northamerica2021)
+
 
 ### Trainings
  * Florida Drupal Camp

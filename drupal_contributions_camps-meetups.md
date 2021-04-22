@@ -187,16 +187,21 @@ I was a mentor during [DrupalCon Global Contribution Day](https://events.drupal.
  * NERDSummit
    * [Accessible Social Media](https://nerdsummit.org/#19)
    * [Accessibility is a Moving Target](https://nerdsummit.org/#31)
+ * MidCamp
+   * [Non-Code Contributions](https://www.midcamp.org/2021/topic-proposal/non-code-contributions)
+ * Stanford WebCamp
+   * [Accessibility is a Moving Target](https://webcamp.stanford.edu/session/accessibility-moving-target)
+   * [Accessible Media](https://webcamp.stanford.edu/session/accessible-media)
 
 I presented a session at DrupalCon 2021:
- * Accessibility is a Moving Target
+ * [Accessibility is a Moving Target](https://events.drupal.org/northamerica2021/sessions/accessibility-moving-target)
 
 ### Organizing
 I help organize:
  * [SGFDUG](https://www.meetup.com/SFDUG-San-Francisco-Drupal-Users-group)
  * BADCamp
  * Florida DrupalCamp
- * MidCamp
+ * [MidCamp](https://www.midcamp.org/2021/about)
  * DrupalCamp Asheville
  * DrupalCamp NYC
 
@@ -208,7 +213,7 @@ I helped lead the [Community Summit at DrupalCon North America 2021](https://eve
    * [Introduction to creating and reviewing patches](https://www.fldrupal.camp/sessions/beginner-track/introduction-creating-and-reviewing-patches-0)
  * MidCamp
    * [First Time Contribution Workshop](https://www.midcamp.org/2021/topic-proposal/first-time-contribution-workshop)
-   * Non-Code Contributions
+ 
  
 ### Mentoring
 I was a mentor during [DrupalCon North America](https://events.drupal.org/northamerica2021) on the [Easy Out of the Box Initiative team](https://events.drupal.org/northamerica2021/easy-out-box-day).

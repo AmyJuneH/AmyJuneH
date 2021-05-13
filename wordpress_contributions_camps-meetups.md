@@ -68,6 +68,12 @@ I presented sessions at:
    * [Accessibility Is a Moving Target](https://www.wordfest.live/01/sessions/accessibility-is-a-moving-target/)
  * [JerseyPress Community Meetup](https://www.meetup.com/WordPress-Montclair-Meetup)
    * [5 Quick Tips for More Accessible Social Media](https://www.meetup.com/WordPress-Montclair-Meetup/events/277465484/)
+ * [WordCamp Northest Ohio](https://neo.wordcamp.org/2021/)
+   * [Accessibility Is a Moving Target](https://neo.wordcamp.org/2021/session/accessibility-is-a-moving-target/)
+
+### Volunteering
+I volunteered at:
+ * [WordCamp Northest Ohio](https://neo.wordcamp.org/2021/)
 
 
 ### Organizing

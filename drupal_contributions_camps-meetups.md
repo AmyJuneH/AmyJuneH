@@ -212,6 +212,8 @@ I help organize:
 
 I helped lead the [Community Summit at DrupalCon North America 2021](https://events.drupal.org/northamerica2021/summit/community)
 
+I was on the [Initiative team - Easy Out of the Box at DrupalCon North America 2021](https://events.drupal.org/northamerica2021/meet-contributors)
+
 I was a volunteer room monitor for [DrupalCon NA](https://events.drupal.org/northamerica2021)
 
 
@@ -227,7 +229,7 @@ I was a volunteer room monitor for [DrupalCon NA](https://events.drupal.org/nort
 I was a mentor during [DrupalCon North America](https://events.drupal.org/northamerica2021) on the [Easy Out of the Box Initiative team](https://events.drupal.org/northamerica2021/easy-out-box-day).
 
 
-## 2021
+## 2022
 
 
 ### Organizing

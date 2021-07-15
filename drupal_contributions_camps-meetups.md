@@ -192,6 +192,11 @@ I was a mentor during [DrupalCon Global Contribution Day](https://events.drupal.
  * Stanford WebCamp
    * [Accessibility is a Moving Target](https://webcamp.stanford.edu/session/accessibility-moving-target)
    * [Accessible Media](https://webcamp.stanford.edu/session/accessible-media)
+ * Drupal Camp Asheville
+   * [Idea to Action - How to turn your passion into a Drupal Community Project](https://www.drupalasheville.com/2021/session/idea-action-how-turn-your-passion-drupal-community-project)
+ * DrupalCamp Colorado
+   * Accessible Slideshows - Button, button, who's got the button?
+   * Easy Out of the Box Initiative
 
 I presented a session at DrupalCon 2021:
  * [Accessibility is a Moving Target](https://events.drupal.org/northamerica2021/sessions/accessibility-moving-target)
@@ -221,3 +226,14 @@ I was a volunteer room monitor for [DrupalCon NA](https://events.drupal.org/nort
 ### Mentoring
 I was a mentor during [DrupalCon North America](https://events.drupal.org/northamerica2021) on the [Easy Out of the Box Initiative team](https://events.drupal.org/northamerica2021/easy-out-box-day).
 
+
+## 2021
+
+
+### Organizing
+I help organize:
+ * [SGFDUG](https://www.meetup.com/SFDUG-San-Francisco-Drupal-Users-group)
+ * BADCamp
+ * Florida DrupalCamp
+ * MidCamp
+ * DrupalCamp Asheville

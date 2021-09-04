@@ -26,7 +26,7 @@ I presented sessions at:
 ## 2021
 
 I presented sessions at:
- * [Inclusive Design 24 (ID24)] (https://inclusivedesign24.org/2021/)
+ * [Inclusive Design 24] (https://inclusivedesign24.org/2021/)
    * [Beyond 99 Red Balloons - A Pragmatic guide to alternative text](https://inclusivedesign24.org/2021/schedule/#talk3) Sept 2021
  * [Accessing Higher Ground](https://accessinghigherground.org/)
    * [Accessibility is a moving target](https://accessinghigherground.org/accessibility-is-a-moving-target/)

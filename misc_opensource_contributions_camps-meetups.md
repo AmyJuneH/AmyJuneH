@@ -21,3 +21,13 @@ I presented sessions at:
  * Kanopi Webinars
    * [Accessible Media](https://www.youtube.com/watch?v=wl4NgIYEoxQ) at Roosevelt College March 2020
    * (Inclusive Content)[https://www.youtube.com/channel/UCKsJvO3IocRkmvKRwTLU_ww] August 2020
+
+
+## 2021
+
+I presented sessions at:
+ * [Inclusive Design 24 (ID24)] (https://inclusivedesign24.org/2021/)
+   * [Beyond 99 Red Balloons - A Pragmatic guide to alternative text](https://inclusivedesign24.org/2021/schedule/#talk3) Sept 2021
+ * [Accessing Higher Ground](https://accessinghigherground.org/)
+   * [Accessibility is a moving target](https://accessinghigherground.org/accessibility-is-a-moving-target/)
+   * [Beyond “99 Red Balloons” – A Pragmatic guide to alternative text 2 hour Workshop](https://accessinghigherground.org/beyond-99-red-balloons-a-pragmatic-guide-to-alternative-text/)

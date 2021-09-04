@@ -206,6 +206,7 @@ I was a mentor during [DrupalCon Global Contribution Day](https://events.drupal.
 
 I presented a session at DrupalCon NA 2021:
  * [Accessibility is a Moving Target](https://events.drupal.org/northamerica2021/sessions/accessibility-moving-target)
+
 I presented a session at [DrupalCon EU 2021](https://events.drupal.org/europe2021):
  * [Idea to Action - How to turn your passion into a Drupal Community Project](https://events.drupal.org/europe2021/sessions/idea-action-how-turn-your-passion-drupal-community-project)
 

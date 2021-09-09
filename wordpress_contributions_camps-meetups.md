@@ -74,7 +74,8 @@ I presented sessions at:
    * [Beyond “99 Red Balloons”- A Pragmatic Guide to Alternative Text](https://santaclarita.wordcamp.org/2021/session/beyond-99-red-balloons-a-pragmatic-guide-to-alternative-text/)
  * [WordFest Live]()
    * [5 Quick Tips for More Accessible Social Media](https://www.wordfest.live/sessions/5-quick-tips-for-more-accessible-social-media/)
-
+ * [WordCamp US](https://us.wordcamp.org/2021/)
+   * [Contributing to Open Source - WordPress](https://us.wordcamp.org/2021/wcus-speakers-second-group/)
 
 ### Volunteering
 I volunteered at:

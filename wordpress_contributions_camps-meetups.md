@@ -70,17 +70,20 @@ I presented sessions at:
    * [5 Quick Tips for More Accessible Social Media](https://www.meetup.com/WordPress-Montclair-Meetup/events/277465484/)
  * [WordCamp Northest Ohio](https://neo.wordcamp.org/2021/)
    * [Accessibility Is a Moving Target](https://neo.wordcamp.org/2021/session/accessibility-is-a-moving-target/) The [Video is on WordPress.tv](https://wordpress.tv/2021/05/26/accessibility-is-a-moving-target/)
- * [WordCamp Santa Clarita](https://neo.wordcamp.org/2021/)
+ * [WordCamp Santa Clarita](https://santaclarita.wordcamp.org/2021/)
    * [Beyond “99 Red Balloons”- A Pragmatic Guide to Alternative Text](https://santaclarita.wordcamp.org/2021/session/beyond-99-red-balloons-a-pragmatic-guide-to-alternative-text/)
  * [WordFest Live]()
    * [5 Quick Tips for More Accessible Social Media](https://www.wordfest.live/sessions/5-quick-tips-for-more-accessible-social-media/)
+ * [WPCampus](https://2021.wpcampus.org/)
+   * [Beyond “99 Red Balloons”- A Pragmatic Guide to Alternative Text - lightning talk](https://2021.wpcampus.org/schedule/lightning-talks-wednesday)
  * [WordCamp US](https://us.wordcamp.org/2021/)
    * [Contributing to Open Source - WordPress](https://us.wordcamp.org/2021/wcus-speakers-second-group/)
 
 ### Volunteering
 I volunteered at:
  * [WordCamp Northest Ohio](https://neo.wordcamp.org/2021/)
-
+ * [WordCamp Santa Clarita](https://santaclarita.wordcamp.org/2021/)
+ * [WPCampus](https://2021.wpcampus.org/)
 
 ### Organizing
 

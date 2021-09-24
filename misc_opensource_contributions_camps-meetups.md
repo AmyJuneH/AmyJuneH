@@ -20,7 +20,7 @@ I presented sessions at:
 
  * Kanopi Webinars
    * [Accessible Media](https://www.youtube.com/watch?v=wl4NgIYEoxQ) at Roosevelt College March 2020
-   * [Inclusive Content[(https://www.youtube.com/channel/UCKsJvO3IocRkmvKRwTLU_ww) August 2020
+   * [Inclusive Content](https://www.youtube.com/channel/UCKsJvO3IocRkmvKRwTLU_ww) August 2020
 
 
 ## 2021

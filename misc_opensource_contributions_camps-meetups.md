@@ -29,5 +29,7 @@ I presented sessions at:
  * [Inclusive Design 24](https://inclusivedesign24.org/2021/)
    * [Beyond 99 Red Balloons - A Pragmatic guide to alternative text](https://www.youtube.com/watch?v=dRlVASl7Bh0&list=PLn7dsvRdQEfFoUIFxtSsp8PjHm-glki1Z&index=4) Sept 2021
  * [Accessing Higher Ground](https://accessinghigherground.org/)
-   * [Accessibility is a moving target](https://accessinghigherground.org/accessibility-is-a-moving-target/)
-   * [Beyond “99 Red Balloons” – A Pragmatic guide to alternative text 2 hour Workshop](https://accessinghigherground.org/beyond-99-red-balloons-a-pragmatic-guide-to-alternative-text/)
+   * [Accessibility is a moving target](https://accessinghigherground.org/accessibility-is-a-moving-target/) Nov 2021
+   * [Beyond “99 Red Balloons” – A Pragmatic guide to alternative text 2 hour Workshop](https://accessinghigherground.org/beyond-99-red-balloons-a-pragmatic-guide-to-alternative-text/) Nov 2021
+ * [CreativePro Design + Accessibility Summit](https://creativepro.com/design-accessibility-summit/)
+   * [Alt Text: Everything You Need to Know](https://creativepro.com/design-accessibility-summit/#tve-jump-17b88b5aba1) Nov 2021

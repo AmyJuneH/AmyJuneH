@@ -203,6 +203,9 @@ I was a mentor during [DrupalCon Global Contribution Day](https://events.drupal.
    * [Accessibility is a moving target](https://www.drupalgovcon.org/program)
  * [SFDUG](https://www.meetup.com/SFDUG-San-Francisco-Drupal-Users-group/events/279870387/)
    * [Accessible Slideshows - Button, button, who's got the button?](https://www.youtube.com/watch?v=WCgXhyKGqSE)
+ * [NYC Meeetup](https://ti.to/drupalnyc/meetup-2021-11-03)
+   * [Drupal Issue Queue Triage](https://ti.to/drupalnyc/meetup-2021-11-03)
+
 
 I presented a session at DrupalCon NA 2021:
  * [Accessibility is a Moving Target](https://events.drupal.org/northamerica2021/sessions/accessibility-moving-target)

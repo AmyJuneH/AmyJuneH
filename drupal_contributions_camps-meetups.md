@@ -201,8 +201,8 @@ I was a mentor during [DrupalCon Global Contribution Day](https://events.drupal.
    * [Accessible Social Media](https://www.drupalcampatlanta.com/2021/sessions/accessible-social-media)
  * [Drupal GovCon](https://www.drupalgovcon.org/)
    * [Accessibility is a moving target](https://www.drupalgovcon.org/program)
- * [SFDUG](https://www.meetup.com/SFDUG-San-Francisco-Drupal-Users-group/)
-   * [Accessible Slideshows - Button, button, who's got the button?](https://www.meetup.com/SFDUG-San-Francisco-Drupal-Users-group/events/279870387/)
+ * [SFDUG](https://www.meetup.com/SFDUG-San-Francisco-Drupal-Users-group/events/279870387/)
+   * [Accessible Slideshows - Button, button, who's got the button?](https://www.youtube.com/watch?v=WCgXhyKGqSE)
 
 I presented a session at DrupalCon NA 2021:
  * [Accessibility is a Moving Target](https://events.drupal.org/northamerica2021/sessions/accessibility-moving-target)
@@ -216,14 +216,16 @@ I help organize:
  * BADCamp
  * Florida DrupalCamp
  * [MidCamp](https://www.midcamp.org/2021/about)
- * DrupalCamp Asheville
- * DrupalCamp NYC
+ * [DrupalCamp Asheville](https://www.drupalasheville.com/)
+ * [DrupalCamp NYC](https://2021.drupalcamp.nyc/volunteers)
 
 I helped lead the [Community Summit at DrupalCon North America 2021](https://events.drupal.org/northamerica2021/summit/community)
 
 I was on the [Initiative team - Easy Out of the Box at DrupalCon North America 2021](https://events.drupal.org/northamerica2021/meet-contributors)
 
 I was a volunteer room monitor for [DrupalCon NA](https://events.drupal.org/northamerica2021)
+
+I was a volunteer room monitor for [DrupalCon Europe](https://events.drupal.org/europe2021/meet-volunteers)
 
 I was a track chair for [DrupalCon EU](https://events.drupal.org/europe2021/meet-volunteers) on the Open Web Community team.
 
@@ -238,12 +240,14 @@ I was a track chair for [DrupalCon EU](https://events.drupal.org/europe2021/meet
  
 ### Mentoring
 I was a mentor during [DrupalCon North America](https://events.drupal.org/northamerica2021) on the [Easy Out of the Box Initiative team](https://events.drupal.org/northamerica2021/easy-out-box-day).
+
 I helped organize and led a session at the first ever [Contribution Mentor Summit](https://drupalcontributions.opensocial.site/group/contribution-mentor-summit-2021/about).
  * [Workshop: Issue queue triage](https://drupalcontributions.opensocial.site/group/contribution-mentor-summit-2021/topic/workshop-issue-queue-triage)
 
+I was a mentor during [DrupalCon North Europe](https://events.drupal.org/europe2021)
+  * [Issue Queue Triage BoF](https://events.drupal.org/europe2021/sessions/issue-queue-triage)
 
 ## 2022
-
 
 ### Organizing
 I help organize:

@@ -250,12 +250,12 @@ I helped organize and led a session at the first ever [Contribution Mentor Summi
 I was a mentor during [DrupalCon North Europe](https://events.drupal.org/europe2021)
   * [Issue Queue Triage BoF](https://events.drupal.org/europe2021/sessions/issue-queue-triage)
 
+
 ## 2022
 
 ### Organizing
 I help organize:
- * [SGFDUG](https://www.meetup.com/SFDUG-San-Francisco-Drupal-Users-group)
+ * [SFDUG](https://www.meetup.com/SFDUG-San-Francisco-Drupal-Users-group)
  * BADCamp
- * Florida DrupalCamp
- * MidCamp
+ * [Florida DrupalCamp](https://www.fldrupal.camp/)
  * DrupalCamp Asheville

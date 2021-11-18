@@ -28,11 +28,12 @@ I presented sessions at:
 I presented sessions at:
  * [Inclusive Design 24](https://inclusivedesign24.org/2021/)
    * [Beyond 99 Red Balloons - A Pragmatic guide to alternative text](https://www.youtube.com/watch?v=dRlVASl7Bh0&list=PLn7dsvRdQEfFoUIFxtSsp8PjHm-glki1Z&index=4) Sept 2021
- * [Harvard College](https://college.harvard.edu/)
+ * [Pantheon's WebOps Summit 2021](https://pantheon.io/webops21-content-hub) Sept 2021
+   * [Accessibility Power Hour](https://pantheon.io/resources/accessibility-power-hour)
+ * [Harvard College](https://college.harvard.edu/) October 2021
    * [Inclusive Content Stratgey](https://calendar.college.harvard.edu/event/inclusive_content) October 2021
  * [Accessing Higher Ground](https://accessinghigherground.org/)
    * [Accessibility is a moving target](https://accessinghigherground.org/accessibility-is-a-moving-target/) Nov 2021
    * [Beyond “99 Red Balloons” – A Pragmatic guide to alternative text 2 hour Workshop](https://accessinghigherground.org/beyond-99-red-balloons-a-pragmatic-guide-to-alternative-text/) Nov 2021
  * [CreativePro Design + Accessibility Summit](https://creativepro.com/design-accessibility-summit/)
    * [Alt Text: Everything You Need to Know](https://creativepro.com/design-accessibility-summit/#tve-jump-17b88b5aba1) Nov 2021
-

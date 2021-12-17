@@ -77,7 +77,7 @@ I presented sessions at:
  * [WPCampus](https://2021.wpcampus.org/schedule/lightning-talks-wednesday)
    * [Beyond “99 Red Balloons”- A Pragmatic Guide to Alternative Text - lightning talk](https://www.youtube.com/watch?v=GOCWNB6evWg&list=PL5yL3XKrtqwumbb024ecR45EHLDa8fZgy&index=1&t=5s)
  * [WordCamp US](https://us.wordcamp.org/2021/)
-   * [Contributing to Open Source - WordPress](https://us.wordcamp.org/2021/wcus-speakers-second-group/)
+   * [Contributing to Open Source - WordPress](https://wordpress.tv/2021/12/13/amyjune-hineline-contributing-to-open-source/)
 
 ### Volunteering
 I volunteered at:

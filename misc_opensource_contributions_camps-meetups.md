@@ -44,5 +44,5 @@ I presented sessions at:
  * [CONNECT Recharge 2022 - Women who code](https://hopin.com/events/connect-recharge-2022/registration)
    * [Accessibility is a Moving Target](https://hopin.com/events/connect-recharge-2022) May 2022
  * [WomenTech Global Conference](https://www.womentech.net/?gclid=EAIaIQobChMInong_Yii9wIVETizAB11tAAREAAYASAAEgIoxvD_BwE)
-   * [Finding a Niche in Open Source Contributions]https://www.womentech.net/?gclid=EAIaIQobChMInong_Yii9wIVETizAB11tAAREAAYASAAEgIoxvD_BwE) June 2022
-   * [Inclusive and Accessible Content]9https://www.womentech.net/?gclid=EAIaIQobChMInong_Yii9wIVETizAB11tAAREAAYASAAEgIoxvD_BwE) June 2022
+   * [Finding a Niche in Open Source Contributions](https://www.womentech.net/?gclid=EAIaIQobChMInong_Yii9wIVETizAB11tAAREAAYASAAEgIoxvD_BwE) June 2022
+   * [Inclusive and Accessible Content](https://www.womentech.net/?gclid=EAIaIQobChMInong_Yii9wIVETizAB11tAAREAAYASAAEgIoxvD_BwE) June 2022

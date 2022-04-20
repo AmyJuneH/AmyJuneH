@@ -1,7 +1,7 @@
 # Hi, I'm AmyJune
 
 <img src="https://avatars3.githubusercontent.com/u/20327232?s=460&amp;u=2930034a3b14e772b708dba5a1377aeb504a1dc4&amp;v=4" alt="banner that says AmyJune Hineline - Communty ambassador and QA Engineer" style="max-width:100%;border-radius: 150px;" align="right" width="300px">
-I am AmyJune Hineline, and the Senior Community Manager at <a href="hhttps://opensource.com/">Opensource.com</a>,
+I am AmyJune Hineline, and the Senior Community Manager at <a href="https://opensource.com/">Opensource.com</a>,
 a project supported by Red Hat. I am also a Drupal Core Mentor. With a dual
 focus on both open-source community development and inclusivity, I am uniquely
 positioned to help individuals become more comfortable and confident as they
@@ -9,6 +9,7 @@ contribute to their communities. I co-organizes various open-source camps
 and conventions globally, empowering individuals to forge deep community
 connections that benefit the whole. As a self-described non-coder, I
 help communities discover how they can contribute and belong in more ways than code. 
+
 
 
 With six years of open-source community involvement behind me, I’ve had the
@@ -34,6 +35,7 @@ Other Gems and Oddities include but aren't limited to:
 ## Around the web
 
 - Visit my website <a href="https://www.volkswagenchick.com">volkswagenchick.com</a>
+- Find some articles I have written for <a href="https://opensource.com/users/amyjune">Opensource.com</a>
 - Find me on <a href="https://www.drupal.org/u/volkswagenchick">Drupal.org</a>
 - Posting snark on <a href="https://twitter.com/volkswagenchick">Twitter</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/volkswagenchick/">LinkedIn</a>

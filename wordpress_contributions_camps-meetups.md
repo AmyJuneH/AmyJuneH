@@ -85,5 +85,11 @@ I volunteered at:
  * [WordCamp Santa Clarita](https://santaclarita.wordcamp.org/2021/)
  * [WPCampus](https://2021.wpcampus.org/)
 
-### Organizing
+
+## 2022
+
+### Presentations
+I presented sessions at:
+ * [WordFest 2022](https://www.wordfest.live/2022/march/)
+   * [Git into the Groove – Moving from Freelance to Collaborative Workflow](https://www.wordfest.live/2022/march/sessions/git-into-the-groove-moving-from-freelance-to-collaborative-workflow/)
 

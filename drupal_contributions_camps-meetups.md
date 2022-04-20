@@ -253,9 +253,27 @@ I was a mentor during [DrupalCon North Europe](https://events.drupal.org/europe2
 
 ## 2022
 
+### Presentations
+ * Florida DrupalCamp
+   *  [Accessible Slideshows - Button, button, who's got the button?](https://www.youtube.com/watch?v=Q00H0gGWp9E)
+ * [Design4Drupal](https://design4drupal.org/webinar-series)
+   *  [Accessible Slideshows](https://youtu.be/Ihius3No3pw)
+ 
 ### Organizing
 I help organize:
  * [SFDUG](https://www.meetup.com/SFDUG-San-Francisco-Drupal-Users-group)
  * BADCamp
  * [Florida DrupalCamp](https://www.fldrupal.camp/)
- * DrupalCamp Asheville
+ * [DrupalCamp Asheville](https://www.drupalasheville.com/)
+
+I helped lead the [Community Summit at DrupalCon North America 2021](https://events.drupal.org/portland2022/sessions/community-summit)
+
+I was a track chair for [DrupalCon EU](https://events.drupal.org/prague2022/meet-volunteers) on the Open Web Community team.
+
+### Mentoring
+I was a mentor during [DrupalCon North America](https://events.drupal.org/portland2022).
+
+I was a lead for the Mentor the Mentor BoF at [DrupalCon North America](https://events.drupal.org/portland2022).
+
+I was a lead for the Novice Issuse Queue Triage BoF at [DrupalCon North America](https://events.drupal.org/portland2022).
+

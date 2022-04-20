@@ -37,3 +37,12 @@ I presented sessions at:
    * [Beyond “99 Red Balloons” – A Pragmatic guide to alternative text 2 hour Workshop](https://accessinghigherground.org/beyond-99-red-balloons-a-pragmatic-guide-to-alternative-text/) Nov 2021
  * [CreativePro Design + Accessibility Summit](https://creativepro.com/design-accessibility-summit/)
    * [Alt Text: Everything You Need to Know](https://creativepro.com/design-accessibility-summit/#tve-jump-17b88b5aba1) Nov 2021
+
+## 2022
+
+I presented sessions at:
+ * [CONNECT Recharge 2022 - Women who code](https://hopin.com/events/connect-recharge-2022/registration)
+   * [Accessibility is a Moving Target](https://hopin.com/events/connect-recharge-2022) May 2022
+ * [WomenTech Global Conference](https://www.womentech.net/?gclid=EAIaIQobChMInong_Yii9wIVETizAB11tAAREAAYASAAEgIoxvD_BwE)
+   * [Finding a Niche in Open Source Contributions]https://www.womentech.net/?gclid=EAIaIQobChMInong_Yii9wIVETizAB11tAAREAAYASAAEgIoxvD_BwE) June 2022
+   * [Inclusive and Accessible Content]9https://www.womentech.net/?gclid=EAIaIQobChMInong_Yii9wIVETizAB11tAAREAAYASAAEgIoxvD_BwE) June 2022

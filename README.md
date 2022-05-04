@@ -1,6 +1,6 @@
 # Hi, I'm AmyJune
 
-<img src="https://avatars3.githubusercontent.com/u/20327232?s=460&amp;u=2930034a3b14e772b708dba5a1377aeb504a1dc4&amp;v=4" alt="banner that says AmyJune Hineline - Communty ambassador and QA Engineer" style="max-width:100%;border-radius: 150px;" align="right" width="300px">
+<img src="https://avatars3.githubusercontent.com/u/20327232?s=460&amp;u=2930034a3b14e772b708dba5a1377aeb504a1dc4&amp;v=4" alt="banner that says AmyJune Hineline - Senior Community Manager" style="max-width:100%;border-radius: 150px;" align="right" width="300px">
 I am AmyJune Hineline, and the Senior Community Manager at <a href="https://opensource.com/">Opensource.com</a>,
 a project supported by Red Hat. I am also a Drupal Core Mentor. With a dual
 focus on both open-source community development and inclusivity, I am uniquely

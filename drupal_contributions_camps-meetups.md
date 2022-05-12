@@ -258,6 +258,9 @@ I was a mentor during [DrupalCon North Europe](https://events.drupal.org/europe2
    *  [Accessible Slideshows - Button, button, who's got the button?](https://www.youtube.com/watch?v=Q00H0gGWp9E)
  * [Design4Drupal](https://design4drupal.org/webinar-series)
    *  [Accessible Slideshows](https://youtu.be/Ihius3No3pw)
+ * [Stanford WebCamp](https://webcamp.stanford.edu/sessions)
+   *  [Captchas and other gotchas: Make sure your secure website is accessible](https://www.youtube.com/watch?v=nEzk4KlemIk)
+
  
 ### Organizing
 I help organize:

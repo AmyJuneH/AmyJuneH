@@ -46,3 +46,5 @@ I presented sessions at:
  * [WomenTech Global Conference](https://www.womentech.net/?gclid=EAIaIQobChMInong_Yii9wIVETizAB11tAAREAAYASAAEgIoxvD_BwE)
    * [Finding a Niche in Open Source Contributions](https://www.womentech.net/?gclid=EAIaIQobChMInong_Yii9wIVETizAB11tAAREAAYASAAEgIoxvD_BwE) June 2022
    * [Inclusive and Accessible Content](https://www.womentech.net/?gclid=EAIaIQobChMInong_Yii9wIVETizAB11tAAREAAYASAAEgIoxvD_BwE) June 2022
+ * [Linux Foundation Open Source Summit NA - 2022](https://events.linuxfoundation.org/open-source-summit-north-america/)
+   * [Finding a Niche in Open Source Contributions](https://ossna2022.sched.com/event/11NjM?iframe=no) June 2022

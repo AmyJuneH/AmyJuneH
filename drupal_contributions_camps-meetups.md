@@ -260,7 +260,12 @@ I was a mentor during [DrupalCon North Europe](https://events.drupal.org/europe2
    *  [Accessible Slideshows](https://youtu.be/Ihius3No3pw)
  * [Stanford WebCamp](https://webcamp.stanford.edu/sessions)
    *  [Captchas and other gotchas: Make sure your secure website is accessible](https://www.youtube.com/watch?v=nEzk4KlemIk)
-
+ * [DrupalCamp Colorado](https://www.drupal-colorado.org/event/drupalcamp-colorado-2022)
+   *  Captchas and other gotchas: Make sure your secure website is accessible
+ * [DrupalCamp Colorado](https://www.drupal-colorado.org/event/drupalcamp-colorado-2022)
+   *  Finding a Niche in Open Source Contributions
+ * [DrupalCamp Colorado](https://www.drupal-colorado.org/event/drupalcamp-colorado-2022)
+   *  Issue queue triage - a pragmatic guide to finding an issue to work on
  
 ### Organizing
 I help organize:
@@ -280,3 +285,4 @@ I was a lead for the Mentor the Mentor BoF at [DrupalCon North America](https://
 
 I was a lead for the Novice Issuse Queue Triage BoF at [DrupalCon North America](https://events.drupal.org/portland2022).
 
+I was a mentor during [DrupalCamp Colorado](https://www.drupal-colorado.org/event/drupalcamp-colorado-2022)

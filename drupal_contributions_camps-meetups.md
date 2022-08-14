@@ -267,11 +267,15 @@ I was a mentor during [DrupalCon North Europe](https://events.drupal.org/europe2
    *  Finding a Niche in Open Source Contributions
  * [DrupalCamp Colorado](https://www.drupal-colorado.org/event/drupalcamp-colorado-2022)
    *  Issue queue triage - a pragmatic guide to finding an issue to work on
+
+### Trainings
+I led trainings at:
+ * SFDUG
+   * [New Speaker Workshop](https://www.meetup.com/sfdug-san-francisco-drupal-users-group/events/287210107/)
  
 ### Organizing
 I help organize:
  * [SFDUG](https://www.meetup.com/SFDUG-San-Francisco-Drupal-Users-group)
- * BADCamp
  * [Florida DrupalCamp](https://www.fldrupal.camp/)
  * [DrupalCamp Asheville](https://www.drupalasheville.com/)
 

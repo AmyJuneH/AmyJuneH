@@ -24,7 +24,22 @@ BLOG POSTS
   <a href="https://www.drupal.org/community/cwg/blog/resources-for-coping-with-covid-19-anxiety">CWG - Resources for Coping with COVID-19 Anxiety</a>
   <a href="https://www.drupal.org/community/cwg/blog/loss-of-work-resources">CWG - Loss of Work Resources</a>
   <a href="https://www.drupal.org/community/cwg/blog/community-working-groups-wellbeing-hour">CWG - Community Working Group's Wellbeing Hour</a>
+  <a href="https://www.drupal.org/drupalorg/blog/a-non-code-community-contribution-opportunity-become-a-site-moderator">A Non-Code Community Contribution Opportunity: Become a Site Moderator</a>
+  <a href="https://kanopi.com/blog/what-is-an-inclusive-content-strategy/">What is an Inclusive Content Strategy?</a>
+  <a href="https://opensource.com/article/22/1/open-source-accessibility-wordle">Open source tools to make your Wordle results accessible</a>
+  <a href="https://opensource.com/article/22/1/open-source-community-writing-topics">New year, new Opensource.com community manager</a>
+  <a href="https://opensource.com/article/22/4/git-tips">10 Git tips we can't live without</a>
+  <a href="https://opensource.com/article/22/4/our-favorite-git-commands">Happy anniversary, Git! Here are our favorite Git commands</a>
+  <a href="https://opensource.com/article/22/8/favorite-screenshot-tool-linux">What's your favorite screenshot tool on Linux?</a>
 </p>
+
+Other Gems and Oddities include, but are not limited to:
+
+- I am a mycology aficionado who geocaches in the woods.
+
+- Being the youngest of five sisters, I have proved that I am really good at communication or at talking myself out of deadly situations.
+
+- I like to play the guitar, but in actuality, I have my headphones on and while listening to someone better and imagining it's me.
 
 Other Gems and Oddities include, but are not limited to:
 

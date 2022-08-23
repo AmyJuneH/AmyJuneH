@@ -1,4 +1,5 @@
-BLOG POSTS
+##BLOG POSTS
+
 	<a href="https://blog.kalamuna.com/news/nurse-drupal-programmer-interns-journey">Drupal is hard, but stick with it</a><br>
 	<a href="https://blog.kalamuna.com/node/226">Support Blog</a><br>
 	<a href="http://bit.ly/2mCpKGn">Stanford Camp 2017</a><br>

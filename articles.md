@@ -1,4 +1,4 @@
-BLOG POSTS
+BLOG POSTS<br>
 	<a href="https://blog.kalamuna.com/news/nurse-drupal-programmer-interns-journey">Drupal is hard, but stick with it</a><br>
 	<a href="https://blog.kalamuna.com/node/226">Support Blog</a><br>
 	<a href="http://bit.ly/2mCpKGn">Stanford Camp 2017</a><br>
@@ -31,6 +31,7 @@ BLOG POSTS
   <a href="https://opensource.com/article/22/4/git-tips">10 Git tips we can't live without</a><br>
   <a href="https://opensource.com/article/22/4/our-favorite-git-commands">Happy anniversary, Git! Here are our favorite Git commands</a><br>
   <a href="https://opensource.com/article/22/8/favorite-screenshot-tool-linux">What's your favorite screenshot tool on Linux?</a><br>
+  <a href="https://opensource.com/article/22/8/linux-tar-command">4 ways to use the Linux tar command</a><br>
 </p>
 
 Other Gems and Oddities include, but are not limited to:

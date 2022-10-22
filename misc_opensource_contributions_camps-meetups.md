@@ -48,6 +48,8 @@ I presented sessions at:
    * [Inclusive and Accessible Content](https://www.womentech.net/?gclid=EAIaIQobChMInong_Yii9wIVETizAB11tAAREAAYASAAEgIoxvD_BwE) June 2022
  * [Linux Foundation Open Source Summit NA - 2022](https://events.linuxfoundation.org/open-source-summit-north-america/)
    * [Finding a Niche in Open Source Contributions](https://ossna2022.sched.com/event/11NjM?iframe=no) June 2022
+ * [IAAP Webinar SME series](https://www.accessibilityassociation.org/s/Webinars-Overview)
+   * [Alt Text: Everything you need to know beyond just "99 Red Balloons"](https://www.accessibilityassociation.org/s/webinar-details?id=a0A3p0000186nG3EAI)
  * [Linux Foundation Open Source Summit EU Dublin - 2022](https://events.linuxfoundation.org/open-source-summit-europe/program/schedule/)
    * [Accessible Websites - A Prolegomenon](https://sched.co/15z4j) September 2022
  * [Open Source Lisbon](https://opensourcelisbon.syone.com/)

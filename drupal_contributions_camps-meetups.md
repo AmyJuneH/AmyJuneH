@@ -267,6 +267,8 @@ I was a mentor during [DrupalCon North Europe](https://events.drupal.org/europe2
    *  Finding a Niche in Open Source Contributions
  * [DrupalCamp Colorado](https://www.drupal-colorado.org/event/drupalcamp-colorado-2022)
    *  Issue queue triage - a pragmatic guide to finding an issue to work on
+ * [Backdrop Live](https://events.backdropcms.org/)
+   * [Wrting for Opensource.com](https://events.backdropcms.org/discussions/opensourcecom)
 
 ### Trainings
 I led trainings at:

@@ -48,3 +48,9 @@ I presented sessions at:
    * [Inclusive and Accessible Content](https://www.womentech.net/?gclid=EAIaIQobChMInong_Yii9wIVETizAB11tAAREAAYASAAEgIoxvD_BwE) June 2022
  * [Linux Foundation Open Source Summit NA - 2022](https://events.linuxfoundation.org/open-source-summit-north-america/)
    * [Finding a Niche in Open Source Contributions](https://ossna2022.sched.com/event/11NjM?iframe=no) June 2022
+ * [Linux Foundation Open Source Summit EU Dublin - 2022](https://events.linuxfoundation.org/open-source-summit-europe/program/schedule/)
+   * [Accessible Websites - A Prolegomenon](https://sched.co/15z4j) September 2022
+ * [Open Source Lisbon](https://opensourcelisbon.syone.com/)
+   * [Accessibilty is a Moving Target](https://opensourcelisbon.syone.com/speakers) October 2022
+  * [All Thing Open (ATO](https://2022.allthingsopen.org/)
+   * [Session: Panel – Successful Community Management in Open Source](https://2022.allthingsopen.org/sessions/panel-successful-community-management-in-open-source/)

@@ -260,15 +260,24 @@ I was a mentor during [DrupalCon North Europe](https://events.drupal.org/europe2
    *  [Accessible Slideshows](https://youtu.be/Ihius3No3pw)
  * [Stanford WebCamp](https://webcamp.stanford.edu/sessions)
    *  [Captchas and other gotchas: Make sure your secure website is accessible](https://www.youtube.com/watch?v=nEzk4KlemIk)
- * [Drupal Camp Asheville](https://www.drupalasheville.com/)(https://www.youtube.com/watch?v=eI8INn0CeJU)
+ * [Drupal Camp Asheville](https://www.drupalasheville.com/
+   * [Accessibility - What's new in 2022](https://www.youtube.com/watch?v=eI8INn0CeJU)
  * [DrupalCamp Colorado](https://www.drupal-colorado.org/event/drupalcamp-colorado-2022)
    *  Captchas and other gotchas: Make sure your secure website is accessible
- * [DrupalCamp Colorado](https://www.drupal-colorado.org/event/drupalcamp-colorado-2022)
    *  Finding a Niche in Open Source Contributions
- * [DrupalCamp Colorado](https://www.drupal-colorado.org/event/drupalcamp-colorado-2022)
    *  Issue queue triage - a pragmatic guide to finding an issue to work on
  * [Backdrop Live](https://events.backdropcms.org/)
    * [Wrting for Opensource.com](https://events.backdropcms.org/discussions/opensourcecom)
+
+I presented a session at [DrupalCon Portland 2022](https://events.drupal.org/portland2022) at the HIgherEd Summit:
+ * Captchas and other gotchas: Make sure your secure website is accessible
+
+I presented a session at [DrupalCon Portland 2022](https://events.drupal.org/portland2022):
+ * SimplyTest.me: The Future Built From The Past(https://events.drupal.org/portland2022/sessions/simplytestme-future-built-past)
+
+I presented a session at [DrupalCon Prague 2022](https://events.drupal.org/prague2022)
+ * [A candid conversation on community organizing in open source](https://events.drupal.org/prague2022/sessions/candid-conversation-community-organizing-open-source)
+
 
 ### Trainings
 I led trainings at:
@@ -293,3 +302,9 @@ I was a lead for the Mentor the Mentor BoF at [DrupalCon North America](https://
 I was a lead for the Novice Issuse Queue Triage BoF at [DrupalCon North America](https://events.drupal.org/portland2022).
 
 I was a mentor during [DrupalCamp Colorado](https://www.drupal-colorado.org/event/drupalcamp-colorado-2022)
+
+I was a mentor during [DrupalCon Prague 2022](https://events.drupal.org/prague2022).
+
+I was a lead for the Mentor the Mentor BoF at [DrupalCon Prague 2022](https://events.drupal.org/prague2022).
+
+I was a lead for the Novice Issuse Queue Triage BoF at [DrupalCon Prague 2022](https://events.drupal.org/prague2022).

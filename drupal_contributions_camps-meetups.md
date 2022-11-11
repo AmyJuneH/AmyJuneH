@@ -268,6 +268,9 @@ I was a mentor during [DrupalCon North Europe](https://events.drupal.org/europe2
    *  Issue queue triage - a pragmatic guide to finding an issue to work on
  * [Backdrop Live](https://events.backdropcms.org/)
    * [Wrting for Opensource.com](https://events.backdropcms.org/discussions/opensourcecom)
+ * [NJ Web Developers Meetup](https://www.meetup.com/central-nj-drupal-group/events/lcqgwsydcpbnb/)
+   * Captchas and other gotchas: Make sure your security measures are accessible
+   * Creating Accessible and Inclusive Presentations
 
 I presented a session at [DrupalCon Portland 2022](https://events.drupal.org/portland2022) at the HIgherEd Summit:
  * Captchas and other gotchas: Make sure your secure website is accessible

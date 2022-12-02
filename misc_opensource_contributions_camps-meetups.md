@@ -54,5 +54,5 @@ I presented sessions at:
    * [Accessible Websites - A Prolegomenon](https://sched.co/15z4j) September 2022
  * [Open Source Lisbon](https://opensourcelisbon.syone.com/)
    * [Accessibilty is a Moving Target](https://opensourcelisbon.syone.com/speakers) October 2022
-  * [All Thing Open (ATO](https://2022.allthingsopen.org/)
+  * [All Thing Open (ATO)(https://2022.allthingsopen.org/)
     * [Session: Panel – Successful Community Management in Open Source](https://2022.allthingsopen.org/sessions/panel-successful-community-management-in-open-source/)

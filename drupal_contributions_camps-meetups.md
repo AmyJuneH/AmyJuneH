@@ -260,7 +260,7 @@ I was a mentor during [DrupalCon North Europe](https://events.drupal.org/europe2
    *  [Accessible Slideshows](https://youtu.be/Ihius3No3pw)
  * [Stanford WebCamp](https://webcamp.stanford.edu/sessions)
    *  [Captchas and other gotchas: Make sure your secure website is accessible](https://www.youtube.com/watch?v=nEzk4KlemIk)
- * [Drupal Camp Asheville](https://www.drupalasheville.com/
+ * [Drupal Camp Asheville](https://www.drupalasheville.com/)
    * [Accessibility - What's new in 2022](https://www.youtube.com/watch?v=eI8INn0CeJU)
  * [DrupalCamp Colorado](https://www.drupal-colorado.org/event/drupalcamp-colorado-2022)
    *  Captchas and other gotchas: Make sure your secure website is accessible
@@ -276,7 +276,7 @@ I presented a session at [DrupalCon Portland 2022](https://events.drupal.org/por
  * Captchas and other gotchas: Make sure your secure website is accessible
 
 I presented a session at [DrupalCon Portland 2022](https://events.drupal.org/portland2022):
- * SimplyTest.me: The Future Built From The Past(https://events.drupal.org/portland2022/sessions/simplytestme-future-built-past)
+ * [SimplyTest.me: The Future Built From The Past](https://events.drupal.org/portland2022/sessions/simplytestme-future-built-past)
 
 I presented a session at [DrupalCon Prague 2022](https://events.drupal.org/prague2022)
  * [A candid conversation on community organizing in open source](https://events.drupal.org/prague2022/sessions/candid-conversation-community-organizing-open-source)
@@ -311,3 +311,21 @@ I was a mentor during [DrupalCon Prague 2022](https://events.drupal.org/prague20
 I was a lead for the Mentor the Mentor BoF at [DrupalCon Prague 2022](https://events.drupal.org/prague2022).
 
 I was a lead for the Novice Issuse Queue Triage BoF at [DrupalCon Prague 2022](https://events.drupal.org/prague2022).
+
+## 2023
+
+### Presentations
+
+
+
+### Trainings
+I led trainings at:
+ * Fox Valley Drupal
+   * New Speaker Workshop
+ 
+### Organizing
+I help organize:
+ * [Florida DrupalCamp](https://www.fldrupal.camp/)
+ * [DrupalCamp Asheville](https://www.drupalasheville.com/)
+
+### Mentoring

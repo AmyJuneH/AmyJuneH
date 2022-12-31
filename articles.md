@@ -1,4 +1,6 @@
-BLOG POSTS<br>
+BLOG POSTS
+
+
 	<a href="https://blog.kalamuna.com/news/nurse-drupal-programmer-interns-journey">Drupal is hard, but stick with it</a><br>
 	<a href="https://blog.kalamuna.com/node/226">Support Blog</a><br>
 	<a href="http://bit.ly/2mCpKGn">Stanford Camp 2017</a><br>
@@ -32,20 +34,5 @@ BLOG POSTS<br>
   <a href="https://opensource.com/article/22/4/our-favorite-git-commands">Happy anniversary, Git! Here are our favorite Git commands</a><br>
   <a href="https://opensource.com/article/22/8/favorite-screenshot-tool-linux">What's your favorite screenshot tool on Linux?</a><br>
   <a href="https://opensource.com/article/22/8/linux-tar-command">4 ways to use the Linux tar command</a><br>
-</p>
 
-Other Gems and Oddities include, but are not limited to:
 
-- I am a mycology aficionado who geocaches in the woods.
-
-- Being the youngest of five sisters, I have proved that I am really good at communication or at talking myself out of deadly situations.
-
-- I like to play the guitar, but in actuality, I have my headphones on and while listening to someone better and imagining it's me.
-
-Other Gems and Oddities include, but are not limited to:
-
- * I am a mycology aficionado who geocaches in the woods.
-
- * Being the youngest of five sisters, I have proved that I am really good at communication or at talking myself out of deadly situations.
-
- * I like to play the guitar, but in actuality, I have my headphones on and while listening to someone better and imagining it's me.

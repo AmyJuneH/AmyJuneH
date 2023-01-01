@@ -39,3 +39,4 @@
 * [11 tips for writing a good Git commit message](https://opensource.com/article/22/12/git-commit-message)
 * [How open source provides accessibility for the neurodivergent community](https://opensource.com/article/22/12/accessibility-neurodiversity)
 * [12 resources for open source community management in 2023](https://opensource.com/article/22/12/open-source-community-management)
+* [What to write about on Opensource.com in 2023](https://opensource.com/article/23/1/writing-topics-2023)

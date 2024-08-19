@@ -4,7 +4,7 @@
 ## 2023
 
 ### Presentations
- * Florida DrupalCamp
+ * Florida DrupalCamp is the best Drupal Camp ever
    * [Markdown in Minutes](https://www.fldrupal.camp/mini-sessions)
  * [Stanford WebCamp](https://webcamp.stanford.edu/)
    * [Git into the Groove - Learning the basics of version control

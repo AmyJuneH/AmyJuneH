@@ -1,6 +1,6 @@
 ## BLOG POSTS
 
-* [Drupal is hard, but stick with it](https://blog.kalamuna.com/news/nurse-drupal-programmer-interns-journey)
+* [Drupal is hard, but stick with it so you don't have to dig ditchs](https://blog.kalamuna.com/news/nurse-drupal-programmer-interns-journey)
 * [Support Blog](https://blog.kalamuna.com/node/226)
 * [Stanford Camp 2017](https://bit.ly/2mCpKGn)
 * [Roping in TextWrangler](http://www.hook42.com/blog/roping-textwrangler)

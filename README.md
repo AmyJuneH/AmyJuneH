@@ -34,8 +34,7 @@ Other Gems and Oddities include but aren't limited to:
 
 ## Around the web
 
-- Visit my website <a href="https://volkswagenchick.com/">volkswagenchick.com</a>
 - Find some articles I have written for <a href="https://opensource.com/users/amyjune">Opensource.com</a>
 - Find me on <a href="https://www.drupal.org/u/volkswagenchick">Drupal.org</a>
-- Posting snark on <a href="https://twitter.com/volkswagenchick">Twitter</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/volkswagenchick/">LinkedIn</a>
+- Social media on <a href="https://bsky.app/profile/volkswagenchick.bsky.social">BlueSky</a>
